@@ -1,3 +1,0 @@
-# FOR TEST
-
-desktop test
