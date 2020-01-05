@@ -1,3 +1,3 @@
 # IDEA
 
-1. XX by sai 20200101
+1. [XX](IDEA1.MD) by sai 20200101
